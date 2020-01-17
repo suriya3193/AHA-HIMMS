@@ -1,0 +1,2 @@
+# AHA-HIMMS
+To examine the key factors that were associated with telemedicine adoption and salient differences between adopters and nonadopters and to Identify the impact of the Telemedicine implementation on the performance metrics of the hospitals. Two categories of factors namely hospital characteristics and Technological characteristics were examined. Total outpatient visits and Emergency visits were taken as Performance metrics for the hospitals with Telemedicine and the performance of those hospitals were measured before and after the implementation of Telemedicine. 
